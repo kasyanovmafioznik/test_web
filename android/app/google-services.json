@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "440131991319",
+    "project_id": "testtaskweb-eafb4",
+    "storage_bucket": "testtaskweb-eafb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440131991319:android:490a46366c7fa435f02952",
+        "android_client_info": {
+          "package_name": "com.example.test_task_web"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg_Ft6q7fxzYEAfFi23cnnM7jGjsdTrFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

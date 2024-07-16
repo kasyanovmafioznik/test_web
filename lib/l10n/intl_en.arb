@@ -1,0 +1,16 @@
+{
+    "login" : "Log in",
+    "enter" : "Enter product name",
+    "catalog" : "Catalog",
+    "colect" : "Collections",
+    "favorite" : "Favorite",
+    "garbage" : "Basket",
+    "profile" : "Profile",
+    "setings" : "Settings",
+    "exit" : "Exit",
+    "best" : "Best products",
+    "logout": "log out",
+    "hit" : "Best sellers",
+    "allsee" : "See all",
+    "hide" : "Hide"
+}
